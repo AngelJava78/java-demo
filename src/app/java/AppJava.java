@@ -19,6 +19,7 @@ public class AppJava {
         // TODO code application logic here
         System.out.println("Hola mundo!!!");
         System.out.println("Press any key to continue...");
+        System.out.println("Linea de código agregada desde Visual Studio Code");
     }
     
 }
